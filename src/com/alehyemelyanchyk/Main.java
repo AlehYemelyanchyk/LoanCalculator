@@ -7,8 +7,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please, in order to get a loan, fill the information:");
         System.out.println("The amount of loan you would like to get:");
